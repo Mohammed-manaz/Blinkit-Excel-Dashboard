@@ -70,7 +70,10 @@ It provides insights into sales trends, outlet performance, and product distribu
 
 \## 📷 Dashboard Preview
 
-(Add dashboard screenshot here after uploading image)
+## 📷 Dashboard Preview
+
+![Blinkit Dashboard](Dashboard%20Image.png)
+
 
 
 
@@ -83,6 +86,7 @@ It provides insights into sales trends, outlet performance, and product distribu
 Mohamed Abdul Kadir Manaz
 
 Aspiring Data Analyst
+
 
 
 
